@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/classical"
+        style="@style/CategoryStyle"
+        android:background="@color/category_classical"
+        android:text="@string/classical_music" />
+
+    <TextView
+        android:id="@+id/pop"
+        style="@style/CategoryStyle"
+        android:background="@color/category_pop"
+        android:text="@string/pop_music" />
+
+    <TextView
+        android:id="@+id/rock"
+        style="@style/CategoryStyle"
+        android:background="@color/category_rock"
+        android:text="@string/rock_music" />
+</LinearLayout>

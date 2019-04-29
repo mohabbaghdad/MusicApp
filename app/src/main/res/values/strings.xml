@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MuiscApp</string>
+    <string name="classical_music">Classical</string>
+    <string name="pop_music">Pop</string>
+    <string name="rock_music">Rock</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="tohome">Home</string>
+    <string name="title_activity_rock">Rock</string>
+</resources>
